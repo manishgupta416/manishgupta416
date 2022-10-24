@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Manish Gupta
-- 👀 I’m interested in making real world web apps.
-- 🌱 I’m currently learning Mern Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach out to me on https://www.linkedin.com/in/imanishgupta1/
-- 📧  mail: manish.info2020@gmail.com
 
-# manish-gupta
  <h2 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Manish Gupta 
  
@@ -15,9 +8,13 @@
 </p>
 ---
 <div align="center">
-<p>I am a frontend developer working towards being a full-stack developer</p>
-<p>Currently working at a unicorn startup as a Frontend developer</p>
-<p>Learning Typescript and Next.js by end of 2022</p>
+- 👋 Hi, I’m Manish Gupta
+- 👀 I’m interested in making real world web apps.
+- 🌱 I’m currently learning Mern Stack Web Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach out to me on https://www.linkedin.com/in/imanishgupta1/
+- 📧  mail: manish.info2020@gmail.com
+
 </div>
 <div align="center">
   ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only) </div>
