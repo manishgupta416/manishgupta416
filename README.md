@@ -42,6 +42,8 @@
 [![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishgupta416&show_icons=true&theme=tokyonight)](https://github.com/pujarini/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta416&hide=php&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishgupta416&theme=nord_dark)
 
 ---
 
@@ -79,4 +81,4 @@
   <!-- https://github.com/1999azzar
 
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/1999azzar.md -->
-  -->
+ 
