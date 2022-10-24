@@ -1,4 +1,4 @@
-
+ <img src="https://komarev.com/ghpvc/?username=manishgupta416&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
  <h2 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Manish Gupta 
  
@@ -64,6 +64,7 @@
   ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only) </div>
   
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishgupta_416&theme=default)
   
  <!-- RESOUCES USED
 
@@ -74,4 +75,8 @@
   https://twitter.com/pujarini_codeit/status/1565691203823489029 
   
   https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5
+  
+  <!-- https://github.com/1999azzar
+
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/1999azzar.md -->
   -->
