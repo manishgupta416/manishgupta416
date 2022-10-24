@@ -62,3 +62,16 @@
 <div align="center">
 
   ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only) </div>
+  
+  
+  
+ <!-- RESOUCES USED
+
+  https://github.com/Pujarini/Pujarini#-github-stats--
+
+  https://github.com/Pujarini/Pujarini/commit/e40e8802f71880e0407bae24c6453afffd3120ea
+
+  https://twitter.com/pujarini_codeit/status/1565691203823489029 
+  
+  https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5
+  -->
