@@ -68,17 +68,5 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishgupta_416&theme=default)
   
- <!-- RESOUCES USED
 
-  https://github.com/Pujarini/Pujarini#-github-stats--
-
-  https://github.com/Pujarini/Pujarini/commit/e40e8802f71880e0407bae24c6453afffd3120ea
-
-  https://twitter.com/pujarini_codeit/status/1565691203823489029 
-  
-  https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5
-  
-  <!-- https://github.com/1999azzar
-
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/1999azzar.md -->
  
