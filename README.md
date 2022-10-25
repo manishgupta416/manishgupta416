@@ -9,7 +9,7 @@
 
 <div align="center">
 <p>I am a Frontend developer</p>
-<p>Currently Learning Full Stack developer with @neogCamp</p>
+<p>Currently Learning Full Stack development with @neogCamp</p>
 <p>Learning JavaScript and React Js</p>
 </div>
 
